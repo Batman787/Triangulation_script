@@ -1,3 +1,7 @@
+#From: https://github.com/piyk/wifi/blob/master/winwifi_scanner.py
+#Author: Cameron Wright 1900973
+#Module: SEC6201 Undergraduate Project
+#Title: Trilateration using wireless access points for indoor positioning system
 # -*- coding: utf-8 -*-
 
 import time
