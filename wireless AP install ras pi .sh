@@ -28,3 +28,4 @@ wpa_pairwise=TKIP
 rsn_pairwise=CCMP" >> /etc/hostapd/hostapd.conf
 
 sudo systemctl restart hostapd
+sudo reboot
