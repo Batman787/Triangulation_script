@@ -1,0 +1,103 @@
+
+04 April 2022 14:04:21
+
+
+ Rssi:-45 dbm   BSSID: B8:3A:5A:BA:10:B2  SSID:CampusRoam
+
+04 April 2022 14:04:22
+
+
+ Rssi:-63 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-75 dbm   BSSID: B8:3A:5A:BA:05:E1  SSID:eduroam
+ Rssi:-45 dbm   BSSID: B8:3A:5A:BA:10:B2  SSID:CampusRoam
+ Rssi:-46 dbm   BSSID: B8:3A:5A:BA:10:B1  SSID:eduroam
+ Rssi:-62 dbm   BSSID: B8:3A:5A:B9:F1:D2  SSID:CampusRoam
+
+04 April 2022 14:04:23
+
+
+ Rssi:-63 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-75 dbm   BSSID: B8:3A:5A:BA:05:E1  SSID:eduroam
+ Rssi:-46 dbm   BSSID: B8:3A:5A:BA:10:B2  SSID:CampusRoam
+ Rssi:-46 dbm   BSSID: B8:3A:5A:BA:10:B1  SSID:eduroam
+ Rssi:-62 dbm   BSSID: B8:3A:5A:B9:F1:D2  SSID:CampusRoam
+
+04 April 2022 14:04:25
+
+
+ Rssi:-88 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+ Rssi:-68 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-77 dbm   BSSID: B8:3A:5A:BA:05:E1  SSID:eduroam
+ Rssi:-46 dbm   BSSID: B8:3A:5A:BA:10:B2  SSID:CampusRoam
+ Rssi:-45 dbm   BSSID: B8:3A:5A:BA:10:B1  SSID:eduroam
+
+04 April 2022 14:04:26
+
+
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-88 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-82 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+ Rssi:-60 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-76 dbm   BSSID: B8:3A:5A:BA:05:E1  SSID:eduroam
+
+04 April 2022 14:04:27
+
+
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-88 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-82 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-85 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+ Rssi:-69 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-76 dbm   BSSID: B8:3A:5A:BA:05:E1  SSID:eduroam
+ Rssi:-46 dbm   BSSID: B8:3A:5A:BA:10:B2  SSID:CampusRoam
+
+04 April 2022 14:04:29
+
+
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-88 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-82 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-85 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+ Rssi:-72 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-77 dbm   BSSID: B8:3A:5A:BA:05:E1  SSID:eduroam
+ Rssi:-46 dbm   BSSID: B8:3A:5A:BA:10:B2  SSID:CampusRoam
+
+04 April 2022 14:04:30
+
+
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-88 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-82 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-85 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+ Rssi:-72 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-77 dbm   BSSID: B8:3A:5A:BA:05:E1  SSID:eduroam
+ Rssi:-46 dbm   BSSID: B8:3A:5A:BA:10:B2  SSID:CampusRoam
+
+04 April 2022 14:04:31
+
+
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-88 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-82 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-85 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+ Rssi:-72 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-77 dbm   BSSID: B8:3A:5A:BA:05:E1  SSID:eduroam
+ Rssi:-46 dbm   BSSID: B8:3A:5A:BA:10:B2  SSID:CampusRoam
+
+04 April 2022 14:04:33
+
+
+ Rssi:-90 dbm   BSSID: B8:3A:5A:BA:34:A1  SSID:eduroam
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-88 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-82 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-81 dbm   BSSID: B8:3A:5A:B9:AF:A2  SSID:CampusRoam
+ Rssi:-85 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+ Rssi:-72 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)

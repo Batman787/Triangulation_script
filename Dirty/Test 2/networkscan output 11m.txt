@@ -1,0 +1,128 @@
+
+04 April 2022 14:34:57
+
+
+ Rssi:-70 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-93 dbm   BSSID: B8:3A:5A:B9:8B:31  SSID:eduroam
+ Rssi:-84 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-86 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:iPhone 11
+ Rssi:-76 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+ Rssi:-77 dbm   BSSID: B8:3A:5A:B9:67:61  SSID:eduroam
+
+04 April 2022 14:34:58
+
+
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:95:62  SSID:CampusRoam
+ Rssi:-70 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-93 dbm   BSSID: B8:3A:5A:B9:8B:31  SSID:eduroam
+ Rssi:-84 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-86 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:iPhone 11
+ Rssi:-78 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+
+04 April 2022 14:35:00
+
+
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:95:62  SSID:CampusRoam
+ Rssi:-70 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-93 dbm   BSSID: B8:3A:5A:B9:8B:31  SSID:eduroam
+ Rssi:-84 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-86 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:iPhone 11
+ Rssi:-78 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+
+04 April 2022 14:35:01
+
+
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:95:62  SSID:CampusRoam
+ Rssi:-66 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-93 dbm   BSSID: B8:3A:5A:B9:8B:31  SSID:eduroam
+ Rssi:-84 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-86 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:iPhone 11
+ Rssi:-78 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+
+04 April 2022 14:35:02
+
+
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:95:62  SSID:CampusRoam
+ Rssi:-66 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-93 dbm   BSSID: B8:3A:5A:B9:8B:31  SSID:eduroam
+ Rssi:-84 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-86 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:iPhone 11
+ Rssi:-78 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+
+04 April 2022 14:35:04
+
+
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:95:62  SSID:CampusRoam
+ Rssi:-66 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-93 dbm   BSSID: B8:3A:5A:B9:8B:31  SSID:eduroam
+ Rssi:-84 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-86 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:iPhone 11
+ Rssi:-85 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+ Rssi:-78 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+
+04 April 2022 14:35:05
+
+
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:95:62  SSID:CampusRoam
+ Rssi:-66 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-93 dbm   BSSID: B8:3A:5A:B9:8B:31  SSID:eduroam
+ Rssi:-84 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-86 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:iPhone 11
+ Rssi:-85 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+ Rssi:-78 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+
+04 April 2022 14:35:07
+
+
+ Rssi:-79 dbm   BSSID: F6:D6:E9:C1:48:76  SSID:
+ Rssi:-74 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:95:62  SSID:CampusRoam
+ Rssi:-66 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-93 dbm   BSSID: B8:3A:5A:B9:8B:31  SSID:eduroam
+ Rssi:-85 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-86 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:iPhone 11
+ Rssi:-85 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+
+04 April 2022 14:35:08
+
+
+ Rssi:-79 dbm   BSSID: F6:D6:E9:C1:48:76  SSID:
+ Rssi:-74 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:95:62  SSID:CampusRoam
+ Rssi:-66 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-93 dbm   BSSID: B8:3A:5A:B9:8B:31  SSID:eduroam
+ Rssi:-85 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-86 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:iPhone 11
+ Rssi:-85 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+
+04 April 2022 14:35:09
+
+
+ Rssi:-79 dbm   BSSID: F6:D6:E9:C1:48:76  SSID:
+ Rssi:-74 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:95:62  SSID:CampusRoam
+ Rssi:-66 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-93 dbm   BSSID: B8:3A:5A:B9:8B:31  SSID:eduroam
+ Rssi:-85 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-86 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:iPhone 11
+ Rssi:-85 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz

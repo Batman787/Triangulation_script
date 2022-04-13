@@ -1,0 +1,126 @@
+
+04 April 2022 15:11:52
+
+
+ Rssi:-84 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:
+ Rssi:-85 dbm   BSSID: B8:3A:5A:B9:AF:A0  SSID:BC-AdminStaff
+ Rssi:-88 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-84 dbm   BSSID: B8:3A:5A:B9:67:72  SSID:CampusRoam
+ Rssi:-87 dbm   BSSID: B8:3A:5A:B9:AF:A2  SSID:CampusRoam
+ Rssi:-77 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+ Rssi:-88 dbm   BSSID: B8:3A:5A:B9:CF:C2  SSID:CampusRoam
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-69 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+
+04 April 2022 15:11:54
+
+
+ Rssi:-84 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:
+ Rssi:-85 dbm   BSSID: B8:3A:5A:B9:AF:A0  SSID:BC-AdminStaff
+ Rssi:-88 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-82 dbm   BSSID: B8:3A:5A:B9:67:72  SSID:CampusRoam
+ Rssi:-87 dbm   BSSID: B8:3A:5A:B9:AF:A2  SSID:CampusRoam
+ Rssi:-77 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+ Rssi:-88 dbm   BSSID: B8:3A:5A:B9:CF:C2  SSID:CampusRoam
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-72 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+
+04 April 2022 15:11:55
+
+
+ Rssi:-88 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-82 dbm   BSSID: B8:3A:5A:B9:67:72  SSID:CampusRoam
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-72 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-70 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-68 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-78 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+ Rssi:-73 dbm   BSSID: B8:3A:5A:B9:67:61  SSID:eduroam
+
+04 April 2022 15:11:57
+
+
+ Rssi:-87 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-88 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-87 dbm   BSSID: B8:3A:5A:B9:67:72  SSID:CampusRoam
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-72 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-70 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-68 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-78 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+
+04 April 2022 15:11:58
+
+
+ Rssi:-87 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-88 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-87 dbm   BSSID: B8:3A:5A:B9:67:72  SSID:CampusRoam
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-72 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-70 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-68 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-78 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+
+04 April 2022 15:11:59
+
+
+ Rssi:-87 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-84 dbm   BSSID: B8:3A:5A:B9:67:72  SSID:CampusRoam
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-73 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-71 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-71 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-77 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+
+04 April 2022 15:12:00
+
+
+ Rssi:-87 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-84 dbm   BSSID: B8:3A:5A:B9:67:72  SSID:CampusRoam
+ Rssi:-79 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-73 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-71 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-71 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-77 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+
+04 April 2022 15:12:02
+
+
+ Rssi:-87 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-85 dbm   BSSID: B8:3A:5A:B9:67:72  SSID:CampusRoam
+ Rssi:-77 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-73 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-71 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-71 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-81 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+
+04 April 2022 15:12:03
+
+
+ Rssi:-87 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-85 dbm   BSSID: B8:3A:5A:B9:67:72  SSID:CampusRoam
+ Rssi:-77 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-73 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-71 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-71 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-81 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D
+
+04 April 2022 15:12:04
+
+
+ Rssi:-90 dbm   BSSID: B8:3A:5A:BA:34:A0  SSID:BC-AdminStaff
+ Rssi:-87 dbm   BSSID: B8:3A:5A:BA:34:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-79 dbm   BSSID: BE:A0:4A:76:0F:21  SSID:
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:67:72  SSID:CampusRoam
+ Rssi:-77 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-70 dbm   BSSID: F6:AA:EA:71:A1:29  SSID:LAPTOP-UPTSSJ21 1615
+ Rssi:-72 dbm   BSSID: B8:3A:5A:B9:FC:82  SSID:CampusRoam
+ Rssi:-73 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-79 dbm   BSSID: 00:1E:C0:3B:41:1D  SSID:Things-Gateway-001EC03B411D

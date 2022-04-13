@@ -1,0 +1,157 @@
+
+04 April 2022 13:52:49
+
+
+ Rssi:-91 dbm   BSSID: B8:3A:5A:B9:95:61  SSID:eduroam
+ Rssi:-88 dbm   BSSID: 1A:D5:8A:FA:60:FF  SSID:Instant Tethering cd579
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:CF:C2  SSID:CampusRoam
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A4  SSID:BC-Students
+ Rssi:-86 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+ Rssi:-87 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-91 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-74 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+
+04 April 2022 13:52:51
+
+
+ Rssi:-86 dbm   BSSID: 3E:94:FE:F1:3E:8A  SSID:AndroidAP8731
+ Rssi:-91 dbm   BSSID: B8:3A:5A:B9:95:61  SSID:eduroam
+ Rssi:-88 dbm   BSSID: 1A:D5:8A:FA:60:FF  SSID:Instant Tethering cd579
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:CF:C2  SSID:CampusRoam
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A4  SSID:BC-Students
+ Rssi:-86 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+ Rssi:-87 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-91 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-74 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+
+04 April 2022 13:52:52
+
+
+ Rssi:-86 dbm   BSSID: 3E:94:FE:F1:3E:8A  SSID:AndroidAP8731
+ Rssi:-91 dbm   BSSID: B8:3A:5A:B9:95:61  SSID:eduroam
+ Rssi:-88 dbm   BSSID: 1A:D5:8A:FA:60:FF  SSID:Instant Tethering cd579
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:CF:C2  SSID:CampusRoam
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A4  SSID:BC-Students
+ Rssi:-86 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+ Rssi:-87 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-91 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-74 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+
+04 April 2022 13:52:53
+
+
+ Rssi:-86 dbm   BSSID: 3E:94:FE:F1:3E:8A  SSID:AndroidAP8731
+ Rssi:-91 dbm   BSSID: B8:3A:5A:B9:95:61  SSID:eduroam
+ Rssi:-88 dbm   BSSID: 1A:D5:8A:FA:60:FF  SSID:Instant Tethering cd579
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:CF:C2  SSID:CampusRoam
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A4  SSID:BC-Students
+ Rssi:-86 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+ Rssi:-87 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-91 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-74 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-75 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+
+04 April 2022 13:52:55
+
+
+ Rssi:-86 dbm   BSSID: 3E:94:FE:F1:3E:8A  SSID:AndroidAP8731
+ Rssi:-91 dbm   BSSID: B8:3A:5A:B9:95:61  SSID:eduroam
+ Rssi:-88 dbm   BSSID: 1A:D5:8A:FA:60:FF  SSID:Instant Tethering cd579
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:CF:C2  SSID:CampusRoam
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A4  SSID:BC-Students
+ Rssi:-86 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+ Rssi:-87 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-91 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-74 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+
+04 April 2022 13:52:56
+
+
+ Rssi:-86 dbm   BSSID: 3E:94:FE:F1:3E:8A  SSID:AndroidAP8731
+ Rssi:-91 dbm   BSSID: B8:3A:5A:B9:95:61  SSID:eduroam
+ Rssi:-88 dbm   BSSID: 1A:D5:8A:FA:60:FF  SSID:Instant Tethering cd579
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:CF:C2  SSID:CampusRoam
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A4  SSID:BC-Students
+ Rssi:-86 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+ Rssi:-87 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-91 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-74 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+
+04 April 2022 13:52:57
+
+
+ Rssi:-79 dbm   BSSID: 3E:94:FE:F1:3E:8A  SSID:AndroidAP8731
+ Rssi:-91 dbm   BSSID: B8:3A:5A:B9:95:61  SSID:eduroam
+ Rssi:-88 dbm   BSSID: 1A:D5:8A:FA:60:FF  SSID:Instant Tethering cd579
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:CF:C2  SSID:CampusRoam
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A4  SSID:BC-Students
+ Rssi:-86 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+ Rssi:-87 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-91 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-72 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+
+04 April 2022 13:52:59
+
+
+ Rssi:-79 dbm   BSSID: 3E:94:FE:F1:3E:8A  SSID:AndroidAP8731
+ Rssi:-91 dbm   BSSID: B8:3A:5A:B9:95:61  SSID:eduroam
+ Rssi:-88 dbm   BSSID: 1A:D5:8A:FA:60:FF  SSID:Instant Tethering cd579
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:CF:C2  SSID:CampusRoam
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A4  SSID:BC-Students
+ Rssi:-86 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+ Rssi:-87 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-91 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-72 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+
+04 April 2022 13:53:00
+
+
+ Rssi:-80 dbm   BSSID: 3E:94:FE:F1:3E:8A  SSID:AndroidAP8731
+ Rssi:-91 dbm   BSSID: B8:3A:5A:B9:95:61  SSID:eduroam
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:CF:C2  SSID:CampusRoam
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A4  SSID:BC-Students
+ Rssi:-86 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+ Rssi:-87 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-91 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-72 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-82 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
+
+04 April 2022 13:53:01
+
+
+ Rssi:-80 dbm   BSSID: 3E:94:FE:F1:3E:8A  SSID:AndroidAP8731
+ Rssi:-91 dbm   BSSID: B8:3A:5A:B9:95:61  SSID:eduroam
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A3  SSID:BC-AcadStaff
+ Rssi:-89 dbm   BSSID: B8:3A:5A:B9:CF:C2  SSID:CampusRoam
+ Rssi:-83 dbm   BSSID: B8:3A:5A:B9:AF:A4  SSID:BC-Students
+ Rssi:-86 dbm   BSSID: F4:8C:EB:55:CF:80  SSID:pratchett-2.4GHz
+ Rssi:-87 dbm   BSSID: FA:8C:EB:55:CF:80  SSID:pratchett-guest-2.4GHz
+ Rssi:-91 dbm   BSSID: B8:3A:5A:BA:34:A4  SSID:BC-Students
+ Rssi:-72 dbm   BSSID: B8:3A:5A:B9:FC:81  SSID:eduroam
+ Rssi:-82 dbm   BSSID: B8:3A:5A:B9:8B:22  SSID:CampusRoam
+ Rssi:-76 dbm   BSSID: B8:3A:5A:B9:8B:21  SSID:eduroam
