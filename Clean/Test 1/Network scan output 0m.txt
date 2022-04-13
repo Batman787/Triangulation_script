@@ -1,0 +1,67 @@
+
+27 March 2022 14:29:04
+
+
+ Rssi:-63 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-78 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+ Rssi:-84 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+
+27 March 2022 14:29:05
+
+
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-38 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+
+27 March 2022 14:29:06
+
+
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-52 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+
+27 March 2022 14:29:08
+
+
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-40 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+
+27 March 2022 14:29:09
+
+
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-53 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-83 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:29:10
+
+
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-53 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-83 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:29:12
+
+
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-40 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-83 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:29:13
+
+
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-47 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-83 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:29:15
+
+
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-40 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-83 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:29:16
+
+
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-40 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-83 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D

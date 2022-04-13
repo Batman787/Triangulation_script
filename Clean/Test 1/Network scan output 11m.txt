@@ -1,0 +1,107 @@
+
+27 March 2022 14:36:32
+
+
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-92 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-87 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-68 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-80 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:36:33
+
+
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-83 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-70 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-83 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-83 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:36:35
+
+
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-83 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-70 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-83 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-83 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:36:36
+
+
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-70 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-91 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-90 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:36:37
+
+
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-86 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-67 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-86 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-90 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:36:38
+
+
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-86 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-75 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-86 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-90 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:36:40
+
+
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-91 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-75 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-85 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-81 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:36:41
+
+
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-91 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-83 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-85 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-81 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:36:42
+
+
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-91 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-88 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-83 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-85 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-81 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D
+
+27 March 2022 14:36:44
+
+
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-91 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-89 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-66 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-87 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-81 dbm   BSSID: 48:3C:0C:98:3E:A4  SSID:TALKTALK983E9D

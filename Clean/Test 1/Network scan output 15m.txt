@@ -1,0 +1,160 @@
+
+27 March 2022 14:38:10
+
+
+ Rssi:-92 dbm   BSSID: B8:D9:4D:59:74:73  SSID:BTHub6-W7QR
+ Rssi:-89 dbm   BSSID: 6A:86:60:0B:4A:F5  SSID:
+ Rssi:-91 dbm   BSSID: 2A:35:D1:FB:E7:39  SSID:Virgin Media
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-91 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-90 dbm   BSSID: E4:57:40:45:28:D9  SSID:VM6183605
+ Rssi:-87 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-80 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-87 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-87 dbm   BSSID: 6A:86:60:0B:4A:F2  SSID:BTWi-fi
+
+27 March 2022 14:38:11
+
+
+ Rssi:-92 dbm   BSSID: B8:D9:4D:59:74:73  SSID:BTHub6-W7QR
+ Rssi:-89 dbm   BSSID: 6A:86:60:0B:4A:F5  SSID:
+ Rssi:-91 dbm   BSSID: 2A:35:D1:FB:E7:39  SSID:Virgin Media
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-91 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-90 dbm   BSSID: E4:57:40:45:28:D9  SSID:VM6183605
+ Rssi:-87 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-75 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-87 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-87 dbm   BSSID: 6A:86:60:0B:4A:F2  SSID:BTWi-fi
+
+27 March 2022 14:38:12
+
+
+ Rssi:-92 dbm   BSSID: B8:D9:4D:59:74:73  SSID:BTHub6-W7QR
+ Rssi:-89 dbm   BSSID: 6A:86:60:0B:4A:F5  SSID:
+ Rssi:-88 dbm   BSSID: 2A:35:D1:FB:E7:39  SSID:Virgin Media
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-91 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-90 dbm   BSSID: E4:57:40:45:28:D9  SSID:VM6183605
+ Rssi:-87 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-83 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-87 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-87 dbm   BSSID: 6A:86:60:0B:4A:F2  SSID:BTWi-fi
+
+27 March 2022 14:38:13
+
+
+ Rssi:-92 dbm   BSSID: B8:D9:4D:59:74:73  SSID:BTHub6-W7QR
+ Rssi:-89 dbm   BSSID: 6A:86:60:0B:4A:F5  SSID:
+ Rssi:-88 dbm   BSSID: 2A:35:D1:FB:E7:39  SSID:Virgin Media
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-91 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-90 dbm   BSSID: E4:57:40:45:28:D9  SSID:VM6183605
+ Rssi:-87 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-75 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-87 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-87 dbm   BSSID: 6A:86:60:0B:4A:F2  SSID:BTWi-fi
+
+27 March 2022 14:38:15
+
+
+ Rssi:-92 dbm   BSSID: B8:D9:4D:59:74:73  SSID:BTHub6-W7QR
+ Rssi:-89 dbm   BSSID: 6A:86:60:0B:4A:F5  SSID:
+ Rssi:-88 dbm   BSSID: 2A:35:D1:FB:E7:39  SSID:Virgin Media
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-91 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-90 dbm   BSSID: E4:57:40:45:28:D9  SSID:VM6183605
+ Rssi:-87 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-75 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-87 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-87 dbm   BSSID: 6A:86:60:0B:4A:F2  SSID:BTWi-fi
+
+27 March 2022 14:38:16
+
+
+ Rssi:-92 dbm   BSSID: B8:D9:4D:59:74:73  SSID:BTHub6-W7QR
+ Rssi:-89 dbm   BSSID: 6A:86:60:0B:4A:F5  SSID:
+ Rssi:-88 dbm   BSSID: 2A:35:D1:FB:E7:39  SSID:Virgin Media
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-92 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-90 dbm   BSSID: E4:57:40:45:28:D9  SSID:VM6183605
+ Rssi:-87 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-76 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-87 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-87 dbm   BSSID: 6A:86:60:0B:4A:F2  SSID:BTWi-fi
+
+27 March 2022 14:38:17
+
+
+ Rssi:-92 dbm   BSSID: B8:D9:4D:59:74:73  SSID:BTHub6-W7QR
+ Rssi:-89 dbm   BSSID: 6A:86:60:0B:4A:F5  SSID:
+ Rssi:-88 dbm   BSSID: 2A:35:D1:FB:E7:39  SSID:Virgin Media
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-92 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-90 dbm   BSSID: E4:57:40:45:28:D9  SSID:VM6183605
+ Rssi:-87 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-76 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-87 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-87 dbm   BSSID: 6A:86:60:0B:4A:F2  SSID:BTWi-fi
+
+27 March 2022 14:38:19
+
+
+ Rssi:-92 dbm   BSSID: B8:D9:4D:59:74:73  SSID:BTHub6-W7QR
+ Rssi:-89 dbm   BSSID: 6A:86:60:0B:4A:F5  SSID:
+ Rssi:-88 dbm   BSSID: 2A:35:D1:FB:E7:39  SSID:Virgin Media
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-92 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-90 dbm   BSSID: E4:57:40:45:28:D9  SSID:VM6183605
+ Rssi:-87 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-78 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-87 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-87 dbm   BSSID: 6A:86:60:0B:4A:F2  SSID:BTWi-fi
+
+27 March 2022 14:38:20
+
+
+ Rssi:-92 dbm   BSSID: B8:D9:4D:59:74:73  SSID:BTHub6-W7QR
+ Rssi:-89 dbm   BSSID: 6A:86:60:0B:4A:F5  SSID:
+ Rssi:-88 dbm   BSSID: 2A:35:D1:FB:E7:39  SSID:Virgin Media
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-92 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-90 dbm   BSSID: E4:57:40:45:28:D9  SSID:VM6183605
+ Rssi:-87 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-76 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-87 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-87 dbm   BSSID: 6A:86:60:0B:4A:F2  SSID:BTWi-fi
+
+27 March 2022 14:38:21
+
+
+ Rssi:-92 dbm   BSSID: B8:D9:4D:59:74:73  SSID:BTHub6-W7QR
+ Rssi:-89 dbm   BSSID: 6A:86:60:0B:4A:F5  SSID:
+ Rssi:-88 dbm   BSSID: 2A:35:D1:FB:E7:39  SSID:Virgin Media
+ Rssi:-90 dbm   BSSID: 9C:31:C3:54:80:92  SSID:SKY2TSYL
+ Rssi:-92 dbm   BSSID: 60:38:E0:C1:F2:D3  SSID:fibonacci 2.4GHz
+ Rssi:-91 dbm   BSSID: E4:57:40:B2:46:77  SSID:VM0104876
+ Rssi:-90 dbm   BSSID: 60:38:E0:C1:F2:D2  SSID:fibonacci 5GHz
+ Rssi:-90 dbm   BSSID: E4:57:40:45:28:D9  SSID:VM6183605
+ Rssi:-87 dbm   BSSID: B8:D9:4D:59:74:72  SSID:BTHub6-W7QR
+ Rssi:-77 dbm   BSSID: 40:A5:EF:05:7C:CB  SSID:Abraham Linksys (AP1)
+ Rssi:-87 dbm   BSSID: BA:D9:4D:59:76:73  SSID:BTWi-fi
+ Rssi:-87 dbm   BSSID: 6A:86:60:0B:4A:F2  SSID:BTWi-fi
